@@ -1,6 +1,6 @@
 # Gungnir
 
-TODO: Write a gem description
+Gungnir is a simple request generator intended to simulate load when testing web applications.
 
 ## Installation
 

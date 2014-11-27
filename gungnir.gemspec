@@ -8,8 +8,8 @@ Gem::Specification.new do |spec|
   spec.version       = Gungnir::VERSION
   spec.authors       = ["Andy Macdonald"]
   spec.email         = ["andy@theandym.com"]
-  spec.summary       = %q{TODO: Write a short summary. Required.}
-  spec.description   = %q{TODO: Write a longer description. Optional.}
+  spec.summary       = "Request generator for load testing"
+  spec.description   = "Gungnir is a simple request generator intended to simulate load when testing web applications."
   spec.homepage      = "https://github.com/theandym/gungnir"
   spec.license       = "MIT"
 
